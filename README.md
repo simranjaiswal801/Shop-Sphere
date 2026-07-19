@@ -21,9 +21,9 @@ A modern and responsive e-commerce frontend built with **React** and **Vite**. S
 
 ---
 
-##Live Demo
+## Live Demo
 
-shop-sphere-alpha-seven.vercel.app
+
 
 ---
 
