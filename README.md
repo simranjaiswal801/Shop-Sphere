@@ -21,6 +21,12 @@ A modern and responsive e-commerce frontend built with **React** and **Vite**. S
 
 ---
 
+##Live Demo
+
+shop-sphere-alpha-seven.vercel.app
+
+---
+
 ## 🛠️ Tech Stack
 
 - React 19
@@ -150,4 +156,4 @@ Available payment options:
 
 **Simran Jaiswal**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/simranjaiswal801
